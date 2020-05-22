@@ -1,6 +1,6 @@
 ## Requirements
 
-1. minikube with nginx-ingress enabled
+1. minikube with ingress-nginx enabled
 2. skaffold
 
 ## Initial Steps
@@ -12,3 +12,4 @@
 5. Go to the project root directory
 6. Run `skaffold dev`
 7. Go to `http://posts.com`
+8. After each action you need to refresh the page (F5)
