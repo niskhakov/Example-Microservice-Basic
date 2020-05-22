@@ -1,6 +1,6 @@
 ## Requirements
 
-1. minikube
+1. minikube with nginx-ingress enabled
 2. skaffold
 
 ## Initial Steps
