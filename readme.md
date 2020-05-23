@@ -13,3 +13,7 @@
 6. Run `skaffold dev`
 7. Go to `http://posts.com`
 8. After each action you need to refresh the page (F5)
+
+## Architecture
+
+![Architecture](https://static-niskhakov.s3.eu-central-1.amazonaws.com/github/basic-microservices.png)
